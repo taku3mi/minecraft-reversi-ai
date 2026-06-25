@@ -1,0 +1,46 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "supported_formats": {
+            "max_inclusive": 48,
+            "min_inclusive": 26
+        },
+        "description": "Reversi Datapack v1.1.0"
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "minecraft",
+                "path": "advancement/*"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "recipe/*"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "advancements/*"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "recipes/*"
+            }
+        ]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "21_1",
+                "formats": 48
+            },
+            {
+                "directory": "20_6",
+                "formats": 41
+            },
+            {
+                "directory": "20_4",
+                "formats": 26
+            }
+        ]
+    }
+}

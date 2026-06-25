@@ -1,0 +1,3 @@
+[submodule "Reversi"]
+	path = Reversi
+	url = https://github.com/Yuru-Yurufu/Reversi.git

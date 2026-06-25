@@ -1,0 +1,3 @@
+mcrcon
+google-genai
+python-dotenv
